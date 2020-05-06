@@ -17,7 +17,7 @@ npx create-react-app my-app
 
 ## Testing
 
-Use **[Enzyme]**(https://enzymejs.github.io/enzyme/docs/api/) to test Components' outputs and can manipulate, traverse and simulate runtime.
+Use **[Enzyme](https://enzymejs.github.io/enzyme/docs/api/)** to test Components' outputs and can manipulate, traverse and simulate runtime.
 
 ```
 npm install --save-dev enzyme enzyme-adapter-react-16
@@ -25,23 +25,23 @@ npm install --save-dev enzyme enzyme-adapter-react-16
 
 ## Managing state
 
-Use **[Redux]**(https://react-redux.js.org/) to manage the Components' state
+Use **[Redux](https://react-redux.js.org/)** to manage the Components' state
 
 ```
 npm install react-redux
 ````
 
-Link to a good blog on why to use **[Redux]**(https://blog.logrocket.com/when-and-when-not-to-use-redux-41807f29a7fb/)
+Link to a good blog on why to use **[Redux](https://blog.logrocket.com/when-and-when-not-to-use-redux-41807f29a7fb/)**
 
 Can use **Redux Saga** as well.
 
 ## Styling
 
-**[Radium]**(https://formidable.com/open-source/radium/) is a set of tools to manage inline styles on React elements. It gives you powerful styling capabilities without CSS
+**[Radium](https://formidable.com/open-source/radium/)** is a set of tools to manage inline styles on React elements. It gives you powerful styling capabilities without CSS
 ```
 npm install --save radium
 ```
-**[React Motion]**(https://github.com/chenglou/react-motion) used for animating Components 
+**[React Motion](https://github.com/chenglou/react-motion)** used for animating Components 
 
 ```
 npm install --save react-motion
